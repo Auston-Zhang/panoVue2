@@ -1,3 +1,5 @@
 module.exports={
-    publicPath: '/panoVue2/'
+    publicPath: process.env.NODE_ENV === 'production'
+    ? '/hello-world/'
+    : '/'
 }
