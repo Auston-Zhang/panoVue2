@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["Login"],{2896:function(n,t,i){},"302f":function(n,t,i){"use strict";var a=i("2896"),e=i.n(a);e.a},a55b:function(n,t,i){"use strict";i.r(t);var a=function(){var n=this,t=n.$createElement,i=n._self._c||t;return i("amplify-authenticator",[i("div",[n._v("\n    My App\n    "),i("amplify-sign-out")],1)])},e=[],c=(i("302f"),i("2877")),u={},o=Object(c["a"])(u,a,e,!1,null,"07d4c0f3",null);t["default"]=o.exports}}]);
+//# sourceMappingURL=Login.8238225a.js.map
